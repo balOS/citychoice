@@ -1,0 +1,204 @@
+﻿Rank,City,Cost of Living Index,Rent Index,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index
+1,"Hamilton, Bermuda",145.43,110.87,128.76,143.47,158.75,112.26
+2,"New York, NY, United States",100.00,100.00,100.00,100.00,100.00,100.00
+3,"Nassau, Bahamas",99.73,40.45,71.14,85.34,104.17,58.69
+4,"San Francisco, CA, United States",97.84,115.36,106.29,107.52,91.06,92.96
+5,"Anchorage, AK, United States",94.99,40.12,68.53,101.18,84.55,124.92
+6,"Honolulu, HI, United States",94.15,62.82,79.04,104.69,82.86,103.08
+7,"Brooklyn, NY, United States",93.79,76.24,85.33,92.73,100.58,87.04
+8,"Rockville, MD, United States",92.66,64.00,78.84,87.76,74.74,130.79
+9,"Bloomington, IN, United States",92.14,33.64,63.93,112.83,75.43,96.92
+10,"Washington, DC, United States",91.94,73.30,82.95,92.74,85.00,120.62
+11,"Santa Rosa, CA, United States",90.23,58.13,74.75,92.05,78.34,106.77
+12,"Arlington, VA, United States",89.20,61.85,76.01,88.51,82.63,120.53
+13,"Bellevue, WA, United States",88.85,66.67,78.15,88.43,80.99,73.46
+14,"Seattle, WA, United States",88.04,64.41,76.64,89.85,83.22,144.60
+15,"Berkeley, CA, United States",87.82,78.69,83.42,97.88,78.29,115.84
+16,"Boston, MA, United States",87.05,78.72,83.03,88.99,86.20,101.35
+17,"Charleston, SC, United States",86.19,45.99,66.80,98.41,71.87,115.41
+18,"Miami, FL, United States",86.01,63.20,75.01,87.37,95.81,97.81
+19,"Oakland, CA, United States",85.11,79.57,82.44,88.65,81.38,97.94
+20,"New Haven, CT, United States",84.13,47.53,66.48,92.86,86.18,127.41
+21,"Irvine, CA, United States",83.73,66.26,75.30,89.49,76.50,139.48
+22,"Philadelphia, PA, United States",83.46,48.09,66.40,82.24,79.37,116.06
+23,"San Jose, CA, United States",82.87,81.81,82.36,85.40,83.12,134.82
+24,"Tacoma, WA, United States",82.54,36.82,60.49,88.02,72.46,125.10
+25,"Los Angeles, CA, United States",82.30,68.75,75.77,82.73,82.48,109.01
+26,"Boulder, CO, United States",82.19,53.80,68.50,86.22,74.92,143.02
+27,"Halifax, Canada",82.03,29.33,56.61,88.57,75.91,95.70
+28,"Thunder Bay, Canada",81.98,26.20,55.08,77.76,74.63,84.87
+29,"Portland, ME, United States",81.60,40.73,61.89,86.96,88.58,113.69
+30,"Minneapolis, MN, United States",81.46,45.65,64.19,87.48,75.88,131.08
+31,"Norfolk, VA, United States",81.36,43.59,63.14,90.06,81.31,64.42
+32,"Saskatoon, Canada",81.02,29.70,56.27,82.39,72.78,99.63
+33,"Hartford, CT, United States",80.86,42.15,62.19,78.41,86.26,101.57
+34,"Queens, NY, United States",80.77,64.73,73.04,74.39,87.27,113.40
+35,"Albany, NY, United States",80.19,30.82,56.38,83.35,71.86,139.34
+36,"Chicago, IL, United States",80.16,56.71,68.85,79.14,77.99,119.17
+37,"Jersey City, NJ, United States",79.91,66.00,73.20,79.50,85.95,130.99
+38,"Olympia, WA, United States",79.25,36.06,58.42,77.18,78.70,125.04
+39,"Barrie, Canada",79.18,28.03,54.51,79.85,76.95,127.57
+40,"Santa Barbara, CA, United States",79.17,71.45,75.45,76.47,87.43,134.38
+41,"Eugene, OR, United States",78.94,31.38,56.00,91.86,69.07,109.06
+42,"Burlington, VT, United States",78.89,41.89,61.05,82.04,79.41,101.19
+43,"Sacramento, CA, United States",78.75,43.34,61.67,80.02,74.20,135.14
+44,"Pittsburgh, PA, United States",78.66,39.02,59.54,76.56,70.89,133.38
+45,"Portland, OR, United States",78.45,51.72,65.56,79.56,68.40,125.57
+46,"Saint Paul, MN, United States",78.37,40.38,60.05,81.15,74.68,97.64
+47,"Long Beach, CA, United States",78.23,54.98,67.01,82.77,76.98,127.25
+48,"Brampton, Canada",77.90,29.01,54.32,83.61,64.25,103.74
+49,"Fort Lauderdale, FL, United States",77.67,51.63,65.11,79.05,77.85,104.35
+50,"Everett, WA, United States",77.63,42.48,60.68,84.84,70.29,113.75
+51,"Asheville, NC, United States",77.36,37.85,58.31,84.94,72.18,111.73
+52,"Denver, CO, United States",77.31,54.00,66.07,77.48,79.43,130.10
+53,"Bellingham, WA, United States",77.13,34.70,56.67,79.09,77.88,131.14
+54,"Melbourne, FL, United States",77.09,29.38,54.08,85.53,77.04,128.34
+55,"San Diego, CA, United States",77.01,61.91,69.73,75.09,82.09,142.72
+56,"New Orleans, LA, United States",76.64,40.21,59.07,75.15,84.00,116.56
+57,"Orlando, FL, United States",76.63,37.35,57.68,82.77,69.38,129.02
+58,"Baltimore, MD, United States",76.57,45.03,61.36,73.92,80.16,116.79
+59,"Tampa, FL, United States",76.53,42.09,59.92,80.64,80.21,144.43
+60,"West Palm Beach, FL, United States",76.52,43.11,60.41,79.59,78.92,124.36
+61,"Calgary, Canada",76.44,31.37,54.70,72.97,75.23,146.39
+62,"Red Deer, Canada",76.15,25.51,51.73,69.85,74.21,136.55
+63,"Edmonton, Canada",76.01,31.61,54.60,74.26,73.66,131.93
+64,"Vancouver, Canada",75.59,53.50,64.94,78.26,70.12,96.77
+65,"Victoria, Canada",75.47,40.00,58.36,79.13,70.56,112.52
+66,"Colorado Springs, CO, United States",75.42,31.21,54.10,72.93,76.48,150.89
+67,"Charlotte, NC, United States",75.35,40.62,58.60,79.40,73.87,112.72
+68,"Plano, TX, United States",75.32,40.02,58.30,73.93,63.49,101.69
+69,"Toronto, Canada",75.22,46.94,61.58,70.65,71.58,106.83
+70,"Atlanta, GA, United States",74.97,45.83,60.92,75.00,74.81,153.77
+71,"Fayetteville, AR, United States",74.90,24.85,50.76,81.39,69.15,104.92
+72,"Kelowna, Canada",74.78,34.84,55.52,77.54,68.90,109.75
+73,"Indianapolis, IN, United States",74.72,35.67,55.89,73.92,74.26,94.22
+74,"Birmingham, AL, United States",74.64,31.36,53.77,76.12,74.13,134.55
+75,"Burlington, Canada",74.32,34.20,54.97,68.68,82.63,137.47
+76,"Augusta, GA, United States",74.29,22.45,49.29,82.42,62.66,100.38
+77,"Greensboro, NC, United States",74.10,26.05,50.93,80.28,62.04,141.87
+78,"Greenville, SC, United States",74.08,36.03,55.73,83.74,67.18,127.49
+79,"Jacksonville, FL, United States",73.58,32.27,53.66,77.14,73.25,117.13
+80,"Fort Collins, CO, United States",73.57,42.07,58.38,81.45,61.31,73.23
+81,"Cleveland, OH, United States",73.47,28.35,51.71,67.52,74.70,146.27
+82,"Milwaukee, WI, United States",73.37,35.50,55.11,71.90,71.59,139.23
+83,"Saint Petersburg, FL, United States",73.29,41.01,57.72,72.82,75.33,145.31
+84,"Memphis, TN, United States",72.95,27.52,51.04,73.96,70.71,154.91
+85,"Guelph, Canada",72.93,28.86,51.68,68.86,80.08,114.41
+86,"Syracuse, NY, United States",72.88,30.77,52.57,72.26,67.76,103.63
+87,"Waterloo, Canada",72.86,29.64,52.01,70.36,70.20,120.38
+88,"Regina, Canada",72.85,28.93,51.67,73.25,66.30,109.12
+89,"Newark, NJ, United States",72.68,40.31,57.07,66.47,77.87,94.10
+90,"Akron, OH, United States",72.65,21.57,48.02,77.33,63.79,99.21
+91,"Mississauga, Canada",72.54,36.65,55.23,68.46,67.15,106.67
+92,"Austin, TX, United States",72.46,49.80,61.53,73.02,75.56,140.39
+93,"Fresno, CA, United States",72.36,30.94,52.38,72.51,75.89,110.71
+94,"Buffalo, NY, United States",72.15,28.94,51.31,69.14,72.72,120.23
+95,"Shreveport, LA, United States",72.07,25.24,49.48,78.42,64.04,76.03
+96,"Windsor, Canada",72.00,21.38,47.59,63.40,67.16,118.85
+97,"Nanaimo, BC, Canada",71.90,25.11,49.33,78.03,63.87,99.07
+98,"Nashville, TN, United States",71.88,47.73,60.23,74.28,69.38,125.40
+99,"Moncton, Canada",71.79,18.63,46.15,70.92,66.98,88.06
+100,"Manchester, NH, United States",71.46,33.61,53.20,76.26,72.86,124.75
+101,"Raleigh, NC, United States",71.40,37.42,55.02,78.32,70.58,131.99
+102,"Little Rock, AR, United States",71.29,24.83,48.89,77.24,64.98,132.31
+103,"Winnipeg, Canada",71.22,24.91,48.89,69.49,67.33,114.61
+104,"Quebec City, Canada",71.21,17.97,45.53,71.69,65.29,118.31
+105,"Richmond, VA, United States",70.98,36.18,54.20,77.66,65.74,133.08
+106,"Las Vegas, NV, United States",70.97,29.98,51.20,66.54,74.53,148.81
+107,"Saint Louis, MO, United States",70.76,30.11,51.15,71.33,68.14,144.70
+108,"Grand Rapids, MI, United States",70.58,32.95,52.43,69.69,70.77,143.87
+109,"Rochester, NY, United States",70.52,30.31,51.13,72.96,74.66,158.71
+110,"Houston, TX, United States",70.37,44.10,57.70,71.01,71.15,145.38
+111,"Detroit, MI, United States",70.20,35.48,53.45,67.02,59.30,131.62
+112,"Ann Arbor, MI, United States",70.01,45.26,58.07,69.31,62.97,163.57
+113,"Ottawa, Canada",69.91,31.76,51.51,64.16,71.95,145.32
+114,"Harrisburg, PA, United States",69.91,27.78,49.59,72.58,66.41,140.56
+115,"Salem, OR, United States",69.81,32.00,51.58,70.61,68.39,106.58
+116,"Dayton, OH, United States",69.76,21.96,46.71,73.53,62.38,114.20
+117,"Columbia, SC, United States",69.70,29.48,50.30,75.37,65.65,92.47
+118,"Fort Wayne, IN, United States",69.42,21.43,46.28,74.49,69.24,129.87
+119,"London, Canada",69.39,24.58,47.78,65.97,66.17,105.79
+120,"Des Moines, IA, United States",69.37,31.23,50.97,73.45,63.64,125.85
+121,"Virginia Beach, VA, United States",69.33,37.42,53.94,68.92,71.08,151.73
+122,"Spokane, WA, United States",69.26,26.97,48.86,70.06,64.46,135.55
+123,"Bakersfield, CA, United States",69.20,29.09,49.86,71.91,64.38,120.54
+124,"Montreal, Canada",69.18,26.68,48.69,68.65,67.17,120.29
+125,"Gatineau, Canada",69.17,19.72,45.32,69.98,64.66,142.51
+126,"Columbus, OH, United States",69.13,35.51,52.92,66.96,62.16,125.47
+127,"Cincinnati, OH, United States",69.13,31.11,50.79,61.60,70.40,136.92
+128,"Kansas City, MO, United States",69.05,29.33,49.89,68.17,63.04,135.76
+129,"San Juan, Puerto Rico",68.77,26.09,48.18,66.18,57.67,116.19
+130,"Lincoln, NE, United States",68.61,28.38,49.21,71.56,62.02,124.13
+131,"Fort Myers, FL, United States",68.06,31.90,50.62,71.88,62.43,86.87
+132,"Lexington, KY, United States",67.90,25.51,47.45,69.03,62.48,130.77
+133,"Fort Worth, TX, United States",67.81,35.29,52.12,66.57,65.50,142.22
+134,"Omaha, NE, United States",67.80,30.43,49.78,69.41,62.64,134.51
+135,"Vancouver, WA, United States",67.79,34.12,51.55,61.12,67.28,127.95
+136,"Surrey, Canada",67.37,33.36,50.97,65.23,61.60,93.78
+137,"Montevideo, Uruguay",67.18,21.14,44.97,54.33,70.89,35.71
+138,"Wichita, KS, United States",67.02,24.63,46.58,67.02,68.10,118.39
+139,"Lubbock, TX, United States",66.90,24.63,46.52,61.64,68.94,133.25
+140,"Chattanooga, TN, United States",66.89,27.77,48.02,67.80,62.68,145.27
+141,"Phoenix, AZ, United States",66.87,33.32,50.69,62.40,71.42,139.29
+142,"Sioux Falls, SD, United States",66.85,25.70,47.00,69.13,56.18,168.93
+143,"Salt Lake City, UT, United States",66.76,34.91,51.40,64.48,68.75,148.60
+144,"Tulsa, OK, United States",66.71,28.61,48.34,67.60,62.03,123.20
+145,"Durham, NC, United States",66.44,35.54,51.54,64.75,67.79,146.95
+146,"Springfield, MO, United States",66.40,18.79,43.44,73.60,63.28,77.68
+147,"Winston-Salem, NC, United States",66.27,24.96,46.34,71.92,69.63,117.44
+148,"Dallas, TX, United States",65.94,42.64,54.70,61.95,67.11,162.37
+149,"Albuquerque, NM, United States",65.73,25.50,46.33,68.04,64.58,123.57
+150,"Arlington, TX, United States",65.63,30.04,48.47,62.02,63.87,152.90
+151,"Madison, WI, United States",65.60,36.95,51.78,62.50,66.34,144.83
+152,"Mobile, AL, United States",65.31,24.63,45.69,67.40,64.09,122.20
+153,"Hamilton, Canada",65.26,27.60,47.10,60.77,65.83,122.71
+154,"Louisville, KY, United States",65.14,28.33,47.39,65.76,65.91,127.21
+155,"Pensacola, FL, United States",64.88,28.72,47.44,62.12,64.75,128.73
+156,"Oklahoma City, OK, United States",64.29,26.54,46.09,66.52,58.15,142.40
+157,"Kitchener, Canada",63.90,27.36,46.28,58.85,59.89,124.25
+158,"Huntsville, AL, United States",63.34,27.45,46.03,64.13,63.83,152.26
+159,"Tucson, AZ, United States",63.00,23.80,44.10,61.12,63.64,138.07
+160,"Reno, NV, United States",62.88,35.99,49.92,58.04,64.10,136.40
+161,"Havana, Cuba",62.74,12.01,38.27,41.43,28.23,1.88
+162,"Boise, ID, United States",62.65,28.91,46.37,58.70,65.39,130.86
+163,"Knoxville, TN, United States",62.18,29.77,46.55,60.36,64.67,128.69
+164,"College Station, TX, United States",61.85,32.70,47.79,68.95,57.12,118.70
+165,"San Antonio, TX, United States",60.92,34.50,48.18,58.17,60.96,154.92
+166,"Athens, GA, United States",60.55,26.67,44.21,57.85,59.58,110.52
+167,"San Jose, Costa Rica",60.46,19.28,40.60,60.98,49.47,48.89
+168,"Panama City, Panama",57.23,32.46,45.29,56.48,52.95,38.24
+169,"Campinas, Brazil",57.21,14.10,36.42,43.15,48.20,59.53
+170,"Rio de Janeiro, Brazil",57.14,21.61,40.00,42.19,48.58,39.15
+171,"Santiago, Chile",56.85,17.85,38.04,48.15,55.32,50.65
+172,"Sao Paulo, Brazil",56.83,21.02,39.56,43.58,48.59,40.03
+173,"Buenos Aires, Argentina",56.05,15.58,36.53,48.19,56.51,60.03
+174,"Porto Alegre, Brazil",53.88,14.79,35.03,42.32,42.19,46.35
+175,"Brasilia, Brazil",53.84,16.73,35.94,44.65,47.74,49.33
+176,"Recife, Brazil",52.22,12.23,32.93,41.22,41.58,39.68
+177,"Fortaleza, Brazil",52.00,9.81,31.65,43.69,38.32,30.52
+178,"Belo Horizonte, Brazil",50.41,12.56,32.15,37.82,41.12,35.32
+179,"Florianopolis, Brazil",50.40,15.08,33.37,39.36,42.08,39.69
+180,"San Salvador, El Salvador",50.29,12.78,32.20,51.28,37.29,28.62
+181,"Guayaquil, Ecuador",49.49,13.57,32.17,44.21,36.59,36.14
+182,"Curitiba, Brazil",49.43,12.63,31.68,37.00,41.47,46.26
+183,"Santo Domingo, Dominican Republic",49.10,12.49,31.44,42.25,46.38,28.77
+184,"Quito, Ecuador",48.84,14.05,32.06,47.67,36.41,34.37
+185,"Guatemala City, Guatemala",46.97,15.52,31.80,43.64,37.17,41.41
+186,"Lima, Peru",43.92,17.91,31.38,39.88,31.53,39.55
+187,"Bogota, Colombia",38.99,13.86,26.87,31.74,29.55,42.03
+188,"Monterrey, Mexico",38.45,11.52,25.46,35.16,38.06,84.22
+189,"Cuenca, Ecuador",38.41,10.38,24.89,37.19,26.71,43.44
+190,"Mexico City, Mexico",37.54,17.84,28.04,34.66,32.65,64.03
+191,"Asuncion, Paraguay",36.16,10.71,23.88,30.88,27.65,34.68
+192,"Santa Cruz, Bolivia",36.14,14.26,25.59,29.42,29.15,57.64
+193,"Medellin, Colombia",35.87,12.33,24.52,31.73,27.61,29.33
+194,"Cancun, Mexico",35.58,9.80,23.15,29.93,35.30,61.69
+195,"Guadalajara, Mexico",34.19,10.12,22.58,33.15,30.82,71.87
+196,"Tijuana, Mexico",34.13,10.81,22.88,32.67,32.65,45.26
+197,"Hermosillo, Mexico",33.86,7.29,21.05,30.30,29.75,77.33
+198,"Caracas, Venezuela",33.64,9.63,22.06,35.03,30.79,3.72
+199,"Queretaro, Mexico",33.51,9.52,21.94,33.17,27.96,63.18
+200,"Merida, Mexico",33.18,7.58,20.83,32.01,26.75,37.23
+201,"Cali, Colombia",33.04,7.44,20.69,28.79,23.76,39.71
+202,"Puerto Vallarta, Mexico",32.70,11.52,22.48,32.27,31.03,62.36
+203,"Puebla, Mexico",32.65,7.22,20.38,28.36,27.84,45.28

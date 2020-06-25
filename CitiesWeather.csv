@@ -1,0 +1,620 @@
+﻿Overall,City,Winter,Spring,Summer,Fall
+1,"Glendale, CA",1,3,6,1
+1,"Pasadena, CA",1,3,6,1
+1,"Burbank, CA",1,3,6,1
+1,"Bakersfield, CA",13,2,1,3
+1,"Modesto, CA",6,6,1,3
+1,"Turlock, CA",6,6,1,3
+2,"Davis, CA",8,3,2,4
+2,"Merced, CA",9,7,1,4
+2,"Riverside, CA",4,4,4,3
+2,"Jurupa Valley, CA",4,4,4,3
+2,"Arden-Arcade, CA",10,1,5,4
+2,"Citrus Heights, CA",10,1,5,4
+3,"Roseville, CA",10,1,5,4
+3,"Saint George, UT",1,6,10,3
+3,"Menifee, CA",3,1,3,9
+3,"Las Cruces, NM",2,4,7,6
+3,"Hesperia, CA",8,2,2,8
+3,"Apple Valley, CA",8,2,2,8
+3,"Victorville, CA",8,2,2,8
+4,"Scottsdale, AZ",5,2,11,5
+4,"Henderson, NV",7,2,9,6
+4,"Stockton, CA",9,10,3,6
+4,"Visalia, CA",16,17,1,1
+4,"Tracy, CA",9,10,3,6
+4,"Manteca, CA",9,10,3,6
+5,"Lancaster, CA",1,9,5,9
+5,"Palmdale, CA",1,9,5,9
+5,"Sunnyvale, CA",2,6,19,2
+5,"Mountain View, CA",2,6,19,2
+5,"Corona, CA",6,3,18,2
+6,"Pleasanton, CA",4,10,14,1
+6,"Livermore, CA",4,10,14,1
+6,"San Ramon, CA",4,10,14,1
+6,"Sacramento, CA",17,9,6,2
+6,"Roswell, NM",3,13,9,5
+6,"Vacaville, CA",23,7,4,1
+7,"Hemet, CA",3,1,3,31
+7,"Indio, CA",12,4,9,15
+7,"North Las Vegas, NV",9,4,14,13
+7,"Anaheim, CA",6,7,16,10
+7,"Garden Grove, CA",6,7,16,10
+7,"Fullerton, CA",6,7,16,10
+7,"Norwalk, CA",6,7,16,10
+7,"Buena Park, CA",6,7,16,10
+8,"Suffolk, VA",3,21,13,4
+8,"Los Angeles, CA",11,4,19,7
+8,"East Los Angeles, CA",11,4,19,7
+8,"South Gate, CA",11,4,19,7
+9,"Concord, CA",16,13,17,5
+9,"Antioch, CA",16,13,17,5
+9,"Chino, CA",17,16,10,8
+9,"Chino Hills, CA",17,16,10,8
+9,"San Bernardino, CA",22,14,1,15
+9,"Redlands, CA",22,14,1,15
+9,"Rialto, CA",22,14,1,15
+10,"Rio Rancho, NM",17,10,13,13
+10,"Midland, TX",11,18,15,14
+10,"Moreno Valley, CA",18,19,9,12
+10,"Perris, CA",18,19,9,12
+10,"Temecula, CA",18,19,9,12
+11,"San Tan Valley, AZ",14,2,25,16
+11,"Murrieta, CA",3,1,15,42
+11,"Odessa, TX",13,20,20,13
+11,"Redding, CA",37,20,2,6
+11,"Lynwood, CA",4,8,32,17
+11,"Inglewood, CA",4,8,32,17
+11,"Compton, CA",4,8,32,17
+11,"Hawthorne, CA",4,8,32,17
+12,"Escondido, CA",7,33,19,7
+12,"Greeley, CO",17,21,20,9
+12,"Columbia, SC",12,21,28,7
+12,"Brandon, FL",34,16,15,5
+13,"Bend, OR",22,25,13,11
+13,"Mount Pleasant, SC",23,27,20,4
+13,"Thornton, CO",27,18,7,22
+13,"Folsom, CA",43,11,4,18
+13,"Elk Grove, CA",43,11,4,18
+13,"Rancho Cordova, CA",43,11,4,18
+14,"Tucson, AZ",7,5,54,7
+14,"Casas Adobes, AZ",7,5,55,7
+14,"Fort Collins, CO",14,27,23,10
+14,"Loveland, CO",14,27,23,10
+14,"Santa Monica, CA",3,11,44,18
+14,"Fresno, CA",30,21,6,19
+14,"Clovis, CA",30,21,6,19
+15,"Mesquite, TX",22,32,13,15
+15,"Concord, NC",14,14,16,40
+15,"Wichita Falls, TX",16,24,22,21
+15,"Longmont, CO",33,24,7,16
+15,"Gastonia, NC",12,30,26,16
+16,"Santa Fe, NM",27,20,24,12
+16,"San Angelo, TX",17,34,22,9
+16,"Charleston, SC",20,29,21,16
+16,"Pomona, CA",34,16,10,25
+16,"Tampa, FL",30,19,22,12
+16,"Riverview, FL",30,19,22,12
+17,"Denton, TX",5,42,25,9
+17,"Silver Spring, MD",21,28,19,20
+17,"Fontana, CA",25,29,8,24
+17,"Rancho Cucamonga, CA",25,29,8,24
+17,"Ontario, CA",25,29,8,24
+17,"Upland, CA",25,29,8,24
+18,"Grand Prairie, TX",23,23,18,23
+18,"Pueblo, CO",26,25,18,16
+18,"Long Beach, CA",15,17,29,28
+18,"Downey, CA",15,17,29,28
+18,"Carson, CA",15,17,29,28
+18,"Lakewood, CA",15,17,29,28
+18,"Bellflower, CA",15,17,29,28
+19,"Surprise, AZ",18,10,44,18
+19,"McKinney, TX",11,46,21,10
+19,"Allen, TX",11,46,21,10
+19,"Tulsa, OK",8,45,23,11
+19,"Broken Arrow, OK",8,45,23,11
+20,"Provo, UT",37,23,14,13
+20,"Orem, UT",37,23,14,13
+20,"Thousand Oaks, CA",5,15,52,21
+20,"Santa Barbara, CA",4,18,52,17
+20,"Greenville, NC",2,28,27,36
+20,"El Cajon, CA",37,15,17,27
+20,"Yuma, AZ",24,6,36,27
+21,"Norman, OK",20,38,22,16
+21,"Abilene, TX",16,38,27,13
+21,"Fort Worth, TX",11,42,29,13
+21,"Oxnard, CA",2,15,59,24
+21,"Ventura, CA",2,15,59,24
+22,"Rock Hill, SC",13,31,30,27
+22,"Nampa, ID",56,15,8,25
+22,"Meridian, ID",56,15,8,25
+22,"Hoover, AL",22,33,26,26
+22,"Boulder, CO",40,25,10,30
+22,"San Jose, CA",29,28,25,23
+22,"Santa Clara, CA",29,28,25,23
+23,"Augusta, GA",18,28,41,18
+23,"Milpitas, CA",29,28,25,23
+23,"Union City, CA",13,22,60,14
+23,"Hayward, CA",13,22,60,14
+23,"Yakima, WA",70,16,11,14
+24,"Johns Creek, GA",27,19,22,46
+24,"Fairfield, CA",43,25,23,19
+24,"Paradise, NV",38,35,13,22
+24,"Arlington, TX",13,46,26,26
+24,"Las Vegas, NV",23,13,42,33
+24,"Sunrise Manor, NV",23,13,42,33
+24,"Spring Valley, NV",23,13,42,33
+24,"Enterprise, NV",23,13,42,33
+25,"Spring Hill, FL",24,24,36,24
+25,"Kennewick, WA",53,14,14,36
+25,"Winston-Salem, NC",13,35,39,27
+25,"Fort Smith, AR",21,48,19,26
+26,"Jackson, MS",44,38,16,14
+26,"El Paso, TX",20,16,54,30
+26,"Glendale, AZ",36,5,41,32
+26,"Peoria, AZ",36,5,41,32
+26,"Flagstaff, AZ",21,33,50,16
+26,"Athens-Clarke, GA",24,33,33,30
+27,"Atlanta, GA",30,36,28,24
+27,"Sandy Springs, GA",30,36,28,24
+27,"Oklahoma City, OK",26,40,30,22
+27,"Edmond, OK",26,40,30,22
+27,"Orlando, FL",25,24,45,28
+27,"Alafaya, FL",25,24,45,28
+28,"Columbia, MD",39,21,15,53
+28,"Phoenix, AZ",28,8,59,31
+28,"Tempe, AZ",28,8,59,31
+28,"Boise, ID",63,27,9,28
+28,"Fishers, IN",65,17,13,34
+28,"Macon, GA",31,30,36,27
+29,"Garland, TX",23,49,16,38
+29,"Cape Coral, FL",27,23,47,30
+29,"Deltona, FL",28,25,41,32
+29,"Santa Ana, CA",19,25,40,44
+29,"Irvine, CA",19,25,40,44
+29,"Orange, CA",19,25,40,44
+29,"Costa Mesa, CA",19,25,40,44
+30,"Mission Viejo, CA",19,25,41,44
+30,"Newport Beach, CA",19,25,41,44
+30,"Lake Forest, CA",19,25,41,44
+30,"Tustin, CA",19,25,41,44
+30,"Germantown, MD",29,35,28,33
+31,"Albany, GA",26,31,56,18
+31,"Columbus, GA",34,32,43,19
+31,"Ogden, UT",63,34,11,21
+31,"Lynchburg, VA",14,38,47,33
+31,"Fayetteville, NC",8,35,56,34
+31,"Palm Coast, FL",45,23,11,56
+32,"Portsmouth, VA",21,36,44,31
+32,"Shreveport, LA",41,43,24,20
+32,"Fayetteville, AR",21,48,27,35
+32,"El Monte, CA",56,22,12,47
+32,"West Covina, CA",56,22,12,47
+32,"Whittier, CA",56,22,12,47
+32,"Alhambra, CA",56,22,12,47
+32,"Baldwin Park, CA",56,22,12,47
+33,"Independence, MO",32,44,34,20
+33,"Huntsville, AL",38,20,25,59
+33,"Chandler, AZ",40,7,46,47
+33,"Gilbert, AZ",40,7,46,47
+34,"Chico, CA",56,33,7,44
+34,"Kearney, NE",42,40,34,19
+34,"Tuscaloosa, AL",44,35,27,30
+34,"Santa Rosa, CA",49,31,35,23
+34,"Medford, OR",49,45,14,29
+34,"Gainesville, FL",31,29,44,37
+35,"Carlsbad, CA",10,34,62,41
+35,"Vista, CA",10,34,62,41
+35,"San Marcos, CA",10,34,62,41
+35,"West Valley, UT",76,12,5,59
+35,"West Jordan, UT",76,12,5,59
+35,"Lehigh Acres, FL",40,24,48,34
+35,"Sandy, UT",76,12,5,59
+36,"Oceanside, CA",12,33,64,47
+36,"Longview, TX",40,53,27,22
+36,"Boca Raton, FL",61,20,11,63
+36,"Kansas City, MO",32,44,47,20
+36,"Dothan, AL",41,36,53,15
+36,"Boynton Beach, FL",61,20,12,63
+37,"Wilmington, NC",20,37,49,47
+37,"Topeka, KS",28,54,34,26
+37,"Overland Park, KS",32,44,49,20
+37,"Kansas City, KS",32,44,49,20
+37,"Avondale, AZ",43,12,51,50
+37,"Goodyear, AZ",43,12,51,50
+38,"Vallejo, CA",34,34,60,21
+38,"Napa, CA",34,34,60,21
+38,"Reno, NV",53,42,18,38
+38,"Sparks, NV",53,42,18,38
+38,"Huntington Beach, CA",36,27,50,44
+38,"Westminster, CA",36,27,50,44
+39,"Saint Charles, MO",45,47,26,33
+39,"Waco, TX",20,63,35,37
+39,"Jonesboro, AR",49,50,24,30
+39,"Pembroke Pines, FL",31,37,37,51
+39,"Miramar, FL",31,37,37,51
+39,"Davie, FL",31,37,37,51
+39,"Weston, FL",31,37,37,51
+40,"Tyler, TX",37,59,31,27
+40,"Temple, TX",35,52,31,36
+40,"Trenton, NJ",27,49,45,37
+40,"Missouri City, TX",56,58,17,30
+41,"Gulfport, MS",53,45,36,21
+41,"Lawrence, KS",40,56,36,26
+41,"Mesa, AZ",50,12,53,55
+41,"Amarillo, TX",31,41,51,38
+41,"Torrance, CA",51,18,55,46
+41,"Redondo Beach, CA",51,18,55,46
+42,"Albuquerque, NM",26,28,62,58
+42,"Jackson, TN",54,49,24,36
+42,"Fremont, CA",63,32,33,40
+42,"Lake Charles, LA",70,38,15,44
+42,"Redwood City, CA",56,30,40,43
+42,"Palm Bay, FL",35,32,55,53
+43,"Melbourne, FL",35,32,55,53
+43,"Joliet, IL",62,40,28,36
+43,"Salinas, CA",14,36,78,49
+43,"Beaumont, TX",79,41,9,41
+43,"Sugar Land, TX",54,59,30,26
+43,"Chesapeake, VA",33,50,58,29
+44,"Santa Maria, CA",14,39,75,50
+44,"Olathe, KS",48,64,40,21
+44,"O Fallon, MO",42,66,37,32
+44,"Saint Petersburg, FL",30,32,72,49
+44,"Hattiesburg, MS",59,43,35,39
+44,"Hialeah, FL",38,41,44,60
+44,"Miami Gardens, FL",38,41,44,60
+45,"Roanoke, VA",26,47,65,42
+45,"Lees Summit, MO",48,59,35,36
+45,"Round Rock, TX",48,54,33,49
+45,"Warner Robins, GA",40,41,64,38
+45,"Newport News, VA",18,44,60,66
+46,"Toms River, NJ",29,46,57,54
+46,"Clearwater, FL",32,30,86,34
+46,"Largo, FL",32,30,86,34
+46,"Bryan, TX",45,67,31,42
+46,"Frederick, MD",41,40,37,68
+46,"Pearland, TX",64,57,23,41
+47,"College Station, TX",45,67,32,42
+47,"Clarksville, TN",65,47,24,50
+47,"Lincoln, NE",54,63,46,23
+47,"Owensboro, KY",66,48,31,38
+47,"The Woodlands, TX",48,65,27,52
+47,"Lubbock, TX",27,58,58,49
+48,"Killeen, TX",34,64,49,43
+48,"Carmel, IN",70,46,32,40
+48,"Columbia, MO",48,64,35,43
+48,"Allentown, PA",45,46,54,50
+48,"Santa Clarita, CA",64,31,25,80
+48,"Simi Valley, CA",64,31,25,80
+49,"Casper, WY",55,55,29,56
+49,"Lawton, OK",33,66,59,37
+49,"Saint Joseph, MO",58,62,43,31
+49,"Evansville, IN",71,53,28,46
+49,"Lafayette, LA",75,47,29,47
+49,"Chula Vista, CA",30,35,68,70
+49,"Springfield, MO",44,68,35,53
+50,"Edinburg, TX",80,52,33,28
+50,"Bowling Green, KY",65,54,31,50
+50,"Laredo, TX",66,41,45,51
+50,"North Charleston, SC",38,40,72,54
+50,"Mobile, AL",55,43,71,31
+51,"Bolingbrook, IL",68,53,39,41
+51,"McAllen, TX",75,50,39,34
+51,"San Diego, CA",36,36,65,71
+51,"Honolulu, HI",60,42,43,62
+51,"Pearl City, HI",60,42,43,62
+51,"East Honolulu, HI",60,42,43,62
+52,"Mission, TX",75,50,39,34
+52,"Pharr, TX",75,50,39,34
+52,"Springfield, IL",60,65,44,37
+52,"Savannah, GA",34,43,74,59
+52,"Philadelphia, PA",44,57,56,55
+52,"Montgomery, AL",45,51,64,49
+52,"Peoria, IL",67,68,39,31
+53,"Woonsocket, RI",39,45,67,59
+53,"Pawtucket, RI",39,45,67,59
+53,"High Point, NC",28,56,69,58
+53,"Greensboro, NC",28,56,69,58
+53,"Grand Island, NE",62,69,54,28
+54,"Paterson, NJ",43,56,58,63
+54,"Plano, TX",50,51,37,76
+54,"Frisco, TX",50,51,37,76
+54,"Carrollton, TX",50,51,37,76
+54,"Richardson, TX",50,51,37,76
+54,"Colorado Springs, CO",43,52,79,42
+55,"Birmingham, AL",58,60,56,47
+55,"Norfolk, VA",24,54,74,68
+55,"Lafayette, IN",68,62,50,40
+55,"Rapid City, SD",63,68,47,46
+55,"Decatur, IL",73,59,49,40
+55,"Rock Springs, WY",74,49,33,64
+56,"Murfreesboro, TN",53,57,45,71
+56,"Jacksonville, NC",29,58,74,62
+56,"Dale City, VA",37,61,64,64
+56,"Lewiston, ME",35,49,68,75
+56,"Auburn, ME",35,49,68,75
+56,"Toledo, OH",83,59,38,39
+57,"Roswell, GA",37,67,72,55
+57,"Newark, DE",47,55,60,68
+57,"Bear, DE",47,55,60,68
+57,"Middletown, DE",47,55,60,68
+57,"Wilmington, DE",47,55,60,68
+57,"Cincinnati, OH",69,61,47,54
+57,"Covington, KY",69,61,47,54
+58,"San Francisco, CA",54,52,76,43
+58,"San Mateo, CA",54,52,76,43
+58,"Daly City, CA",54,52,76,43
+58,"Huntington, WV",67,57,53,55
+58,"Gillette, WY",66,69,34,63
+59,"Parkersburg, WV",63,59,58,53
+59,"Vancouver, WA",67,63,49,56
+59,"Spokane, WA",72,69,33,60
+59,"Spokane Valley, WA",72,69,33,60
+59,"Brownsville, TX",87,73,30,37
+59,"Reading, PA",54,55,55,71
+60,"Rochester, MI",93,39,20,84
+60,"Sterling Heights, MI",93,39,20,84
+60,"Troy, MI",93,39,20,84
+60,"Southfield, MI",93,39,20,84
+60,"Hartford, CT",46,63,66,64
+60,"New Britain, CT",46,63,66,64
+61,"Kendall, FL",49,39,87,60
+61,"Passaic, NJ",52,61,63,65
+61,"Clifton, NJ",52,61,63,65
+61,"New York, NY",49,57,66,70
+61,"Jersey City, NJ",49,57,66,70
+61,"Union City, NJ",49,57,66,70
+62,"Palatine, IL",79,70,50,39
+62,"Arlington Heights, IL",79,70,51,39
+62,"Evanston, IL",79,70,51,39
+62,"Iowa City, IA",78,70,56,35
+62,"Pocatello, ID",96,58,24,64
+62,"Lakeland, FL",78,37,51,82
+63,"Lexington, KY",82,63,51,49
+63,"Brookings, SD",64,47,65,68
+63,"New Haven, CT",41,73,76,58
+63,"Tallahassee, FL",64,47,80,52
+63,"Waterbury, CT",36,64,79,68
+63,"San Leandro, CA",52,53,83,56
+63,"Alameda, CA",52,53,83,56
+64,"Oakland, CA",52,53,83,56
+64,"Berkeley, CA",52,53,83,56
+64,"Richmond, CA",52,53,83,56
+64,"Bloomington, IN",84,61,50,52
+64,"Sioux City, IA",77,67,64,39
+65,"Baton Rouge, LA",71,58,62,58
+65,"Columbus, OH",77,68,54,51
+65,"Asheville, NC",46,51,81,66
+65,"Lowell, MA",46,74,70,61
+65,"Lawrence, MA",46,74,70,61
+65,"Springdale, AR",69,50,43,89
+66,"Davenport, IA",80,72,63,34
+66,"Great Falls, MT",63,71,57,64
+66,"Champaign, IL",72,71,65,44
+66,"Chattanooga, TN",62,65,58,74
+66,"Detroit, MI",88,65,47,55
+66,"Warren, MI",88,65,47,55
+66,"Dearborn, MI",88,65,47,55
+67,"Charlotte, NC",49,72,76,61
+67,"Town 'n' Country, FL",51,44,100,61
+67,"Renton, WA",60,66,65,73
+67,"New Orleans, LA",66,66,57,79
+67,"Metairie, LA",66,66,57,79
+68,"Bridgeport, CT",55,76,71,63
+68,"Danbury, CT",48,67,72,81
+68,"Nashua, NH",58,65,75,69
+68,"Hillsboro, OR",74,74,52,67
+68,"Beaverton, OR",74,74,52,67
+68,"Coral Springs, FL",39,48,96,82
+68,"Sunrise, FL",39,48,96,82
+68,"Lauderhill, FL",39,48,96,82
+69,"Manchester, NH",59,74,69,67
+69,"Schenectady, NY",89,43,46,91
+69,"Dallas, TX",41,81,79,71
+69,"Salem, OR",80,74,54,62
+70,"Aurora, IL",88,72,60,52
+70,"Naperville, IL",88,72,60,52
+70,"Elgin, IL",88,72,60,52
+70,"Hampton, VA",40,73,82,79
+70,"Dover, NH",51,77,77,72
+70,"Rochester, NH",51,77,77,72
+71,"Irving, TX",42,88,80,66
+71,"Lewisville, TX",42,88,80,66
+71,"Flower Mound, TX",42,88,80,66
+71,"Waukesha, WI",90,60,46,81
+71,"Muncie, IN",83,77,64,53
+71,"Cedar Rapids, IA",89,77,68,39
+72,"Lakewood, CO",69,70,57,86
+72,"Arvada, CO",69,70,57,86
+72,"Westminster, CO",69,70,57,86
+72,"Bozeman, MT",85,78,36,76
+72,"Missoula, MT",93,73,37,72
+72,"Salt Lake City, UT",80,78,46,78
+73,"Aberdeen, SD",93,69,63,57
+73,"Layton, UT",83,81,48,71
+73,"Biloxi, MS",67,76,93,42
+73,"Idaho Falls, ID",99,69,34,79
+73,"Duluth, MN",77,67,69,70
+73,"Raleigh, NC",46,75,84,75
+73,"Durham, NC",46,75,84,75
+73,"Cary, NC",46,75,84,75
+74,"Bismarck, ND",86,73,62,62
+74,"Laramie, WY",75,75,59,78
+74,"Bethlehem, PA",74,67,69,77
+74,"Seattle, WA",68,71,72,75
+74,"Bellevue, WA",68,71,72,75
+75,"Pompano Beach, FL",54,56,91,85
+75,"Deerfield Beach, FL",54,56,91,85
+75,"Rochester, MN",79,75,67,64
+75,"Rutland, VT",76,64,74,78
+75,"Newton, MA",59,79,77,72
+76,"Framingham, MA",59,79,78,72
+76,"Knoxville, TN",72,84,67,67
+76,"Jacksonville, FL",58,62,96,73
+76,"Port Saint Lucie, FL",73,60,73,86
+76,"Morgantown, WV",71,76,79,63
+76,"Charleston, WV",73,72,78,67
+77,"Akron, OH",83,74,66,66
+77,"Racine, WI",87,83,65,54
+77,"Cheyenne, WY",68,64,81,78
+77,"Butte, MT",89,82,46,79
+77,"Waukegan, IL",81,85,70,56
+77,"Ann Arbor, MI",92,76,55,71
+78,"Baytown, TX",92,62,53,88
+78,"Pasadena, TX",92,62,53,88
+78,"League City, TX",92,62,53,88
+78,"Austin, TX",57,89,78,74
+78,"Brockton, MA",79,78,73,65
+78,"Quincy, MA",79,78,73,65
+79,"Gresham, OR",81,81,63,79
+79,"Corpus Christi, TX",84,84,72,61
+79,"Wheeling, WV",82,79,71,68
+79,"Little Rock, AR",71,88,63,83
+79,"Fort Lauderdale, FL",57,60,92,94
+79,"Hollywood, FL",57,60,92,94
+79,"Kenosha, WI",91,79,67,65
+80,"Plantation, FL",57,60,92,94
+80,"Madison, WI",71,91,80,61
+80,"Waterloo, IA",87,90,78,47
+80,"Bloomington, IL",95,73,68,69
+80,"Billings, MT",86,84,52,84
+81,"Portland, OR",85,78,69,74
+81,"Centennial, CO",61,80,93,73
+81,"Highlands Ranch, CO",61,80,93,73
+81,"Denver, CO",61,80,93,73
+81,"Sioux Falls, SD",83,90,80,54
+81,"Oshkosh, WI",91,80,71,66
+82,"Memphis, TN",73,92,70,77
+82,"Southaven, MS",73,92,70,77
+82,"Green Bay, WI",83,82,77,70
+82,"Bellevue, NE",81,90,83,56
+82,"Richmond, VA",59,82,87,87
+82,"San Antonio, TX",67,86,88,74
+83,"Omaha, NE",77,94,83,58
+83,"Dover, DE",59,85,85,87
+83,"South Bend, IN",92,84,74,67
+83,"Eugene, OR",81,84,73,80
+83,"Nashville, TN",81,87,67,84
+83,"Aurora, CO",67,83,86,83
+84,"Pittsburgh, PA",85,83,79,73
+84,"West Fargo, ND",96,78,71,75
+84,"Fargo, ND",96,78,71,75
+84,"Watertown, SD",97,81,70,73
+84,"Bellingham, WA",66,79,82,96
+84,"Waldorf, MD",71,85,81,85
+85,"Saint Paul, MN",90,83,77,72
+85,"Cleveland, OH",92,82,68,81
+85,"New Bedford, MA",62,87,88,87
+85,"Fall River, MA",62,87,88,87
+85,"Scranton, PA",82,77,78,88
+85,"Saint Cloud, MN",83,81,75,86
+86,"Norwalk, CT",60,87,89,88
+86,"Tacoma, WA",78,81,77,90
+86,"Stamford, CT",60,87,89,88
+86,"Kailua, HI",86,82,73,86
+86,"Kalamazoo, MI",95,82,74,78
+86,"Centreville, VA",64,89,82,91
+87,"Virginia Beach, VA",62,86,91,89
+87,"Concord, NH",72,85,82,90
+87,"Eau Claire, WI",79,84,82,83
+87,"Saint Louis, MO",78,99,76,78
+87,"Atascocita, TX",74,89,83,87
+87,"Everett, WA",71,85,82,92
+88,"Wichita, KS",72,95,86,81
+88,"Baltimore, MD",75,88,85,93
+88,"Ellicott City, MD",75,88,85,93
+88,"Glen Burnie, MD",75,88,85,93
+88,"Washington, DC",65,93,90,88
+88,"Arlington, VA",65,93,90,88
+88,"Alexandria, VA",65,93,90,88
+89,"Flint, MI",88,90,80,82
+89,"South Portland, ME",70,91,90,90
+89,"Portland, ME",70,91,90,90
+89,"Minot, ND",98,80,81,80
+89,"Miami, FL",68,83,100,90
+89,"Miami Beach, FL",68,83,100,90
+90,"West Palm Beach, FL",73,78,98,92
+90,"Springfield, MA",76,88,92,88
+90,"Minneapolis, MN",90,86,84,83
+90,"Brooklyn Park, MN",90,86,85,83
+90,"Plymouth, MN",90,86,85,83
+91,"Hammond, IN",98,75,75,98
+91,"Gary, IN",98,75,75,98
+91,"Appleton, WI",98,77,79,94
+91,"Louisville, KY",91,93,75,90
+91,"Camden, NJ",81,86,90,92
+91,"Anchorage, AK",96,70,85,99
+92,"Auburn, WA",82,90,87,93
+92,"Kent, WA",82,90,87,93
+92,"Federal Way, WA",82,90,87,93
+92,"Houston, TX",85,91,87,91
+92,"Kenner, LA",91,85,100,76
+92,"Albany, NY",84,89,91,92
+93,"Fairbanks, AK",92,68,95,100
+93,"Dayton, OH",89,94,89,85
+93,"Westland, MI",94,95,89,80
+93,"Livonia, MI",94,95,90,80
+93,"Schaumburg, IL",85,97,94,81
+93,"Yonkers, NY",77,94,92,96
+93,"New Rochelle, NY",77,94,92,96
+93,"Mount Vernon, NY",77,94,92,96
+94,"Des Moines, IA",96,100,89,72
+94,"Chicago, IL",95,93,87,84
+94,"Cicero, IL",95,93,88,84
+94,"Erie, PA",100,90,80,97
+95,"Milwaukee, WI",87,99,96,80
+95,"Newark, NJ",84,93,93,96
+95,"Elizabeth, NJ",84,93,93,96
+95,"Montpelier, VT",89,92,89,96
+95,"Barre, VT",89,92,89,96
+95,"Rockford, IL",92,99,95,82
+96,"Farmington, MI",97,95,87,90
+96,"Hilo, HI",100,87,86,98
+96,"Worcester, MA",85,95,97,97
+96,"Fort Wayne, IN",96,97,94,85
+96,"Winooski, VT",91,92,95,97
+96,"Burlington, VT",91,92,95,97
+97,"Lansing, MI",95,96,94,92
+97,"Bangor, ME",86,96,95,99
+97,"Boston, MA",86,98,99,95
+97,"Cambridge, MA",86,98,99,95
+97,"Lynn, MA",86,98,99,95
+97,"Somerville, MA",86,98,99,95
+98,"Indianapolis, IN",98,100,90,91
+98,"Grand Forks, ND",100,96,94,93
+98,"Bloomington, MN",97,98,96,91
+98,"Grand Rapids, MI",97,99,95,94
+98,"Wyoming, MI",97,99,96,94
+98,"Parma, OH",98,96,95,97
+99,"Rochester, NY",99,96,97,95
+99,"Providence, RI",94,97,97,99
+99,"Warwick, RI",94,97,97,99
+99,"Cranston, RI",94,97,97,99
+99,"Canton, OH",97,98,99,98
+99,"Syracuse, NY",99,99,98,98
+100,"Buffalo, NY",100,96,97,99
+100,"Cheektowaga, NY",100,96,97,99
+100,"Youngstown, OH",98,100,99,98
+100,"Sitka, AK",99,100,98,100
+100,"Ketchikan, AK",98,100,100,100
+100,"Juneau, AK",100,100,100,100
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
