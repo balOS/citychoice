@@ -100,13 +100,20 @@ def start():
   if compCity == 'yes':
     for place in affordableCity:
       if city in place:
-        moneyComp = money[city, :1]
+        moneyComp = affordable[affordable.columns[1]]
+        print(moneyComp)
+      else:
+        print('\n')
+        print("We got you!")
+        print('\n')
+        break
 
-  print(moneyComp)
 
   df2 = pd.read_csv('citiesCSV/CitiesWholeFoods.csv', usecols=['City'])
   wholeFoodsCity = (df2['City'].str.strip())
   wholeFoods = input("Do you need a local Whole Foods? ")
+  print('\n')
+
 
   best_city = set(weatherCity) & set(wholeFoodsCity) & set(sizedCity) & set(affordableCity)
   alt_best_city = set(weatherCity) & set(sizedCity) & set(affordableCity)
@@ -119,6 +126,8 @@ def start():
   """)
 
   input("You ready? ")
+  print('\n')
+
 
   mainCity = random.choice(tuple(best_city))
   altCity = random.choice(tuple(alt_best_city))
@@ -129,17 +138,26 @@ def start():
 
   if wholeFoods == 'yes' or 'Yes' or 'YES' or 'Y':
     print(mainCity)
+    print('\n')
     allCities = input("Want to see the full list of cities that fit your criteria? ")
     if allCities == 'yes' or 'Yes' or 'YES' or 'Y':
+      print('\n')
       print (best_city)
+      print('\n')
     else:
+      print('\n')
       print("Well I bet you have a ton of fun there. Peace!")
   else:
+    print('\n')
     print(altCity)
     allCities = input("Want to see the full list of cities that fit your criteria? ")
     if allCities == 'yes' or 'Yes' or 'YES' or 'Y':
+      print('\n')
       print (alt_best_city)
+      print('\n')
+
     else:
+      print('\n')
       print("Well I bet you have a ton of fun there. Peace!")
 
 
@@ -160,9 +178,12 @@ def start():
   #  authorize some stuff and understand that process better
   # input API here (good training for spotify and O*NET work)
 
+  print('\n')
   print("Awesome, I'll shoot you a note shortly. Cheers " + name + "!")
   print("\n")
   print("TM balOS 2020")
+  print('\n')
+
 
 while True:
     start()
